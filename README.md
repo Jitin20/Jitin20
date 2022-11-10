@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jitin Sharma
-- 👀 I’m interested in full stack development & digital technologies such as ML.
-- 🌱 I’m currently learning React Js, Angular Js & Backend Development.
-- 💞️ I’m looking to collaborate on a project where i get to learn mmore on my interests.
+- 🌱 I’m currently working on some advanced microsoft technologies like Asp.Net Core Web API, Asp.Net core MVC, C#, .NET CORE 6
+ & Frontend technologies like React JS, Angular Js and others.
+- 💞️ I’m looking to collaborate on a project where i get to learn more on my interests.
 - 📫 How to reach me: Mail Id: jitinsharma2001@rediffmail.com
 
 <!---
